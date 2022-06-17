@@ -1,13 +1,11 @@
 # Privacy  Policy
 
-Developer SedNavySeal built the "Голодный кот" app as an Ad Supported app. This
-app is provided by at no cost and is intended for use as is.
+Developer SedNavySeal built the "Голодный кот" app as an Ad Supported app. This app is provided by at no cost and is intended for use as is.
 
 
 
 ### 1. Overview
-The app uses advertising to make revenue. The app uses third party
-libraries for advertising which may collect and share personal information with third
+The app uses advertising to make revenue. The app uses third party libraries for advertising which may collect and share personal information with third
 parties.
 
 
@@ -23,15 +21,11 @@ Links to privacy policies of third party service providers used in the app
  
 
 ### 3. Security
- I do not collect personally identifiable information from the users .  
+ I do not collect personally identifiable information from the users.  
 
 
 ### 4. Links to Other Sites
-This Service may contain links to other sites. If you click on a third-party link, you 
-will be directed to that site. Note that these external sites are not operated by me.
-Therefore, I strongly advise you to review the Privacy Policy of these websites. I have 
-no control over and assume no responsibility for the content, privacy policies, or 
-practices of any third-party sites or services.
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
  
 
@@ -54,8 +48,7 @@ This policy may be updated from time to time.
 
 Contact me
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to
-contact me.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
 m8438958@gmail.com
 
