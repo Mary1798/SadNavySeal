@@ -36,7 +36,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 ### 6. Distribution
 The only official channel for distribution of this app are:
-* NashStore                https://nashstore.ru/
+* NashStore                [https://nashstore.ru/](https://nashstore.ru/)
 
 Any other mode of distribution is not official and thus, is not maintained by the developer.
 This privacy policy is effective to distribution made on official channel only.
@@ -50,6 +50,6 @@ Contact me
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
-m8438958@gmail.com
+[m8438958@gmail.com](m8438958@gmail.com)
 
 These terms and conditions are effective as of 2022-06-17
