@@ -14,6 +14,9 @@ parties.
 Links to privacy policies of third party service providers used in the app
 
 ООО «ЯНДЕКС»          https://yandex.com/legal/confidential
+
+
+### 2. What information are collected and why
  
 
 
