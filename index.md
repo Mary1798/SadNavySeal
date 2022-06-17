@@ -52,4 +52,4 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 
 [m8438958@gmail.com](m8438958@gmail.com)
 
-These terms and conditions are effective as of 2022-06-17
+These terms and conditions are effective as of 2022-06-18
