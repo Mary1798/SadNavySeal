@@ -17,12 +17,12 @@ Links to privacy policies of third party service providers used in the app
  
 
 
-  ### 2. What information are collected and why
+### 2. What information are collected and why
   If you watched an AD, the ООО «ЯНДЕКС» has probably collected device information, like IP address and device identifiers, and information regarding the delivery of ads and your interaction with them, all of which may be shared with ad publishers and attribution companies. For clarity, ООО «ЯНДЕКС» collects the following data: whether you click or tap an ad for a new game, whether you watch the ad or play a game frequently, whether others playing a game like the one you’re playing have downloaded a particular new game, and whether you download and install the new game you see advertised. All of this is for purposes of predicting the types of new games that you might like to download. 
 
  
 
- ### 3. Security
+### 3. Security
  I do not collect personally identifiable information from the users .  
 
 
@@ -35,7 +35,7 @@ practices of any third-party sites or services.
 
  
 
- ### 5. Children’s Privacy
+### 5. Children’s Privacy
  I do not collect personally identifiable information from children under 16. 
 
 
